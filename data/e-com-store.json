@@ -3,7 +3,7 @@
         "id": 1,
         "title": "Slim Fit Dark Blue Jeans",
         "price": 350,
-        "image": "../public/images/jeans/j1.jpg",
+        "image": "./public/images/jeans/j1.jpg",
         "category": "jens"
     },
     {
