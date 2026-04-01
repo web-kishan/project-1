@@ -1,44 +1,44 @@
 [
-    {
+   {
         "id": 6,
         "title": "Black Leather Wrap Bracelet Set",
         "price": 960,
-        "image": "../public/images/jewelerys/jv1.jpg",
+        "image": "public/images/jewelerys/jv1.jpg",
         "category": "jewelerys"
     },
     {
         "id": 7,
         "title": "Silver Chain Minimal Necklace",
         "price": 890,
-        "image": "../public/images/jewelerys/jv2.jpg",
+        "image": "public/images/jewelerys/jv2.jpg",
         "category": "jewelerys"
     },
     {
         "id": 8,
         "title": "Gold Bar Bracelet (Minimal Style)",
         "price": 789,
-        "image": "../public/images/jewelerys/jv3.jpg",
+        "image": "public/images/jewelerys/jv3.jpg",
         "category": "jewelerys"
     },
     {
         "id": 9,
         "title": "Classic Silver Beaded Necklace",
         "price": 799,
-        "image": "../public/images/jewelerys/jv4.jpg",
+        "image": "public/images/jewelerys/jv4.jpg",
         "category": "jewelerys"
     },
     {
         "id": 10,
         "title": "Black Leather Buckle Bracelet",
         "price": 977,
-        "image": "../public/images/jewelerys/jv5.jpg",
+        "image": "public/images/jewelerys/jv5.jpg",
         "category": "jewelerys"
     },
     {
         "id": 11,
         "title": "Matte Black Metal Bracelet",
         "price": 999,
-        "image": "../public/images/jewelerys/jv6.jpg",
+        "image": "public/images/jewelerys/jv6.jpg",
         "category": "jewelerys"
     }
 ]
