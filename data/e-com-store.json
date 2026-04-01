@@ -3,49 +3,49 @@
         "id": 1,
         "title": "Slim Fit Dark Blue Jeans",
         "price": 350,
-        "image": "../public/images/jeans/j1.jpg",
+        "image": "public/images/jeans/j1.jpg",
         "category": "jens"
     },
     {
         "id": 2,
         "title": "Light Wash Wide-Leg Jeans",
         "price": 1999,
-        "image": "../public/images/jeans/j2.jpg",
+        "image": "public/images/jeans/j2.jpg",
         "category": "jens"
     },
     {
         "id": 3,
         "title": "Regular Fit Classic Blue Jeans",
         "price": 1367,
-        "image": "../public/images/jeans/j3.jpg",
+        "image": "public/images/jeans/j3.jpg",
         "category": "jens"
     },
     {
         "id": 4,
         "title": "Black Skinny Fit Jeans",
         "price": 1200,
-        "image": "../public/images/jeans/j4.jpg",
+        "image": "public/images/jeans/j4.jpg",
         "category": "jens"
     },
     {
         "id": 5,
         "title": "Grey Relaxed Fit Jeans",
         "price": 2100,
-        "image": "../public/images/jeans/j5.jpg",
+        "image": "public/images/jeans/j5.jpg",
         "category": "jens"
     },
     {
         "id": 6,
         "title": "Black Leather Wrap Bracelet Set",
         "price": 960,
-        "image": "../public/images/jewelerys/jv1.jpg",
+        "image": "public/images/jewelerys/jv1.jpg",
         "category": "jewelerys"
     },
     {
         "id": 7,
         "title": "Silver Chain Minimal Necklace",
         "price": 890,
-        "image": "../public/images/jewelerys/jv2.jpg",
+        "image": "public/images/jewelerys/jv2.jpg",
         "category": "jewelerys"
     },
     {
