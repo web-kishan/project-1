@@ -3,35 +3,35 @@
         "id": 33,
         "title": "All-Black Minimalist Analog Watch (Metal Strap)",
         "price": 1200,
-        "image": "../public/images/watches/w1.jpg",
+        "image": "public/images/watches/w1.jpg",
         "category": "watches"
     },
     {
         "id": 34,
         "title": "Luxury Gold & Silver Two-Tone Chronograph Watch (Green Dial)",
         "price": 1199,
-        "image": "../public/images/watches/w2.jpg",
+        "image": "public/images/watches/w2.jpg",
         "category": "watches"
     },
     {
         "id": 35,
         "title": "Stainless Steel Classic Chronograph Watch (Black Dial)",
         "price": 1600,
-        "image": "../public/images/watches/w3.jpg",
+        "image": "public/images/watches/w3.jpg",
         "category": "watches"
     },
     {
         "id": 36,
         "title": "Premium Black Dial Chronograph Watch (Leather Strap)",
         "price": 999,
-        "image": "../public/images/watches/w4.jpg",
+        "image": "public/images/watches/w4.jpg",
         "category": "watches"
     },
     {
         "id": 37,
         "title": "Elegant Slim Analog Watch (Brown Leather Strap, Black Dial)",
         "price": 2999,
-        "image": "../public/images/watches/w5.jpg",
+        "image": "public/images/watches/w5.jpg",
         "category": "watches"
     }
 ]

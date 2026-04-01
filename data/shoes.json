@@ -1,37 +1,37 @@
 [
-        {
+    {
         "id": 12,
         "title": "Nike Air Force 1",
         "price": 1200,
-        "image": "../public/images/shoes/s1.jpg",
+        "image": "public/images/shoes/s1.jpg",
         "category": "shoes"
     },
     {
         "id": 13,
         "title": "Adidas Ultraboost",
         "price": 2300,
-        "image": "../public/images/shoes/s2.jpg",
+        "image": "public/images/shoes/s2.jpg",
         "category": "shoes"
     },
     {
         "id": 14,
         "title": "Puma RS-X",
         "price": 1278,
-        "image": "../public/images/shoes/s3.jpg",
+        "image": "public/images/shoes/s3.jpg",
         "category": "shoes"
     },
     {
         "id": 15,
         "title": "Converse Chuck Taylor All Star",
         "price": 3200,
-        "image": "../public/images/shoes/s4.jpg",
+        "image": "public/images/shoes/s4.jpg",
         "category": "shoes"
     },
     {
         "id": 16,
         "title": "Vans Old Skool",
         "price": 5999,
-        "image": "../public/images/shoes/s5.jpg",
+        "image": "public/images/shoes/s5.jpg",
         "category": "shoes"
     }
 ]

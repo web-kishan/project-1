@@ -3,70 +3,70 @@
         "id": 23,
         "title": "Graphic Print Casual T-Shirt (Olive Green)",
         "price":1200,
-        "image": "../public/images/tshirts/st1.jpg",
+        "image": "public/images/tshirts/st1.jpg",
         "category": "tshirts"
     },
         {
         "id": 24,
         "title": "Monochrome Artistic Print T-Shirt (White/Black Gradient)",
         "price":1100,
-        "image": "../public/images/tshirts/st2.jpg",
+        "image": "public/images/tshirts/st2.jpg",
         "category": "tshirts"
     },
         {
         "id": 25,
         "title": "Classic Tan Utility Jacket",
         "price":999,
-        "image": "../public/images/tshirts/st3.jpg",
+        "image": "public/images/tshirts/st3.jpg",
         "category": "tshirts"
     },
         {
         "id": 26,
         "title": "Light Blue Casual Button-Down Shirt",
         "price":3400,
-        "image": "../public/images/tshirts/st4.jpg",
+        "image": "public/images/tshirts/st4.jpg",
         "category": "tshirts"
     },
         {
         "id": 27,
         "title": "Black Minimalist Overshirt Jacket",
         "price":320,
-        "image": "../public/images/tshirts/st5.jpg",
+        "image": "public/images/tshirts/st5.jpg",
         "category": "tshirts"
     },
         {
         "id": 28,
         "title": "Red Graphic Streetwear T-Shirt",
         "price":1400,
-        "image": "../public/images/tshirts/st6.jpg",
+        "image": "public/images/tshirts/st6.jpg",
         "category": "tshirts"
     },
         {
         "id": 29,
         "title": "Dark Grey Casual Zip-Up Jacket",
         "price":2100,
-        "image": "../public/images/tshirts/st7.jpg",
+        "image": "public/images/tshirts/st7.jpg",
         "category": "tshirts"
     },
         {
         "id": 30,
         "title": "White Minimal Illustration T-Shirt",
         "price":1100,
-        "image": "../public/images/tshirts/st8.jpg",
+        "image": "public/images/tshirts/st8.jpg",
         "category": "tshirts"
     },
         {
         "id": 31,
         "title": "White Typography Print T-Shirt",
         "price":2200,
-        "image": "../public/images/tshirts/st9.jpg",
+        "image": "public/images/tshirts/st9.jpg",
         "category": "tshirts"
     },
         {
         "id": 32,
         "title": "Maroon Casual Button-Down Shirt",
         "price":999,
-        "image": "../public/images/tshirts/st10.jpg",
+        "image": "public/images/tshirts/st10.jpg",
         "category": "tshirts"
     }
 ]
