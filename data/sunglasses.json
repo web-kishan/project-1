@@ -1,0 +1,44 @@
+[
+    {
+        "id": 17,
+        "title": "Classic Black Rectangular Sunglasses",
+        "price": 670,
+        "image": "../public/images/sunglasses/sn1.jpg",
+        "category": "sunglasses"
+    },
+        {
+        "id": 18,
+        "title": "Modern Slim Square Sunglasses (Blue Lens)",
+        "price": 777,
+        "image": "../public/images/sunglasses/sn2.jpg",
+        "category": "sunglasses"
+    },
+        {
+        "id": 19,
+        "title": "Matte Black Sporty Wrap Sunglasses",
+        "price": 766,
+        "image": "../public/images/sunglasses/sn3.jpg",
+        "category": "sunglasses"
+    },
+        {
+        "id": 20,
+        "title": "Minimal Round Frame Sunglasses (Black Lens)",
+        "price": 955,
+        "image": "../public/images/sunglasses/sn4.jpg",
+        "category": "sunglasses"
+    },
+        {
+        "id": 21,
+        "title": "Futuristic Shield Sunglasses (Silver Frame)",
+        "price": 1299,
+        "image": "../public/images/sunglasses/sn5.jpg",
+        "category": "sunglasses"
+    },
+        {
+        "id": 22,
+        "title": "Angular Black Fashion Sunglasses (Red Background Style)",
+        "price": 999,
+        "image": "../public/images/sunglasses/sn6.jpg",
+        "category": "sunglasses"
+    }
+]

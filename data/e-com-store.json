@@ -1,0 +1,261 @@
+[
+    {
+        "id": 1,
+        "title": "Slim Fit Dark Blue Jeans",
+        "price": 350,
+        "image": "../public/images/jeans/j1.jpg",
+        "category": "jens"
+    },
+    {
+        "id": 2,
+        "title": "Light Wash Wide-Leg Jeans",
+        "price": 1999,
+        "image": "../public/images/jeans/j2.jpg",
+        "category": "jens"
+    },
+    {
+        "id": 3,
+        "title": "Regular Fit Classic Blue Jeans",
+        "price": 1367,
+        "image": "../public/images/jeans/j3.jpg",
+        "category": "jens"
+    },
+    {
+        "id": 4,
+        "title": "Black Skinny Fit Jeans",
+        "price": 1200,
+        "image": "../public/images/jeans/j4.jpg",
+        "category": "jens"
+    },
+    {
+        "id": 5,
+        "title": "Grey Relaxed Fit Jeans",
+        "price": 2100,
+        "image": "../public/images/jeans/j5.jpg",
+        "category": "jens"
+    },
+    {
+        "id": 6,
+        "title": "Black Leather Wrap Bracelet Set",
+        "price": 960,
+        "image": "../public/images/jewelerys/jv1.jpg",
+        "category": "jewelerys"
+    },
+    {
+        "id": 7,
+        "title": "Silver Chain Minimal Necklace",
+        "price": 890,
+        "image": "../public/images/jewelerys/jv2.jpg",
+        "category": "jewelerys"
+    },
+    {
+        "id": 8,
+        "title": "Gold Bar Bracelet (Minimal Style)",
+        "price": 789,
+        "image": "../public/images/jewelerys/jv3.jpg",
+        "category": "jewelerys"
+    },
+    {
+        "id": 9,
+        "title": "Classic Silver Beaded Necklace",
+        "price": 799,
+        "image": "../public/images/jewelerys/jv4.jpg",
+        "category": "jewelerys"
+    },
+    {
+        "id": 10,
+        "title": "Black Leather Buckle Bracelet",
+        "price": 977,
+        "image": "../public/images/jewelerys/jv5.jpg",
+        "category": "jewelerys"
+    },
+    {
+        "id": 11,
+        "title": "Matte Black Metal Bracelet",
+        "price": 999,
+        "image": "../public/images/jewelerys/jv6.jpg",
+        "category": "jewelerys"
+    },
+    {
+        "id": 12,
+        "title": "Nike Air Force 1",
+        "price": 1200,
+        "image": "../public/images/shoes/s1.jpg",
+        "category": "shoes"
+    },
+    {
+        "id": 13,
+        "title": "Adidas Ultraboost",
+        "price": 2300,
+        "image": "../public/images/shoes/s2.jpg",
+        "category": "shoes"
+    },
+    {
+        "id": 14,
+        "title": "Puma RS-X",
+        "price": 1278,
+        "image": "../public/images/shoes/s3.jpg",
+        "category": "shoes"
+    },
+    {
+        "id": 15,
+        "title": "Converse Chuck Taylor All Star",
+        "price": 3200,
+        "image": "../public/images/shoes/s4.jpg",
+        "category": "shoes"
+    },
+    {
+        "id": 16,
+        "title": "Vans Old Skool",
+        "price": 5999,
+        "image": "../public/images/shoes/s5.jpg",
+        "category": "shoes"
+    },
+        {
+        "id": 17,
+        "title": "Classic Black Rectangular Sunglasses",
+        "price": 670,
+        "image": "../public/images/sunglasses/sn1.jpg",
+        "category": "sunglasses"
+    },
+        {
+        "id": 18,
+        "title": "Modern Slim Square Sunglasses (Blue Lens)",
+        "price": 777,
+        "image": "../public/images/sunglasses/sn2.jpg",
+        "category": "sunglasses"
+    },
+        {
+        "id": 19,
+        "title": "Matte Black Sporty Wrap Sunglasses",
+        "price": 766,
+        "image": "../public/images/sunglasses/sn3.jpg",
+        "category": "sunglasses"
+    },
+        {
+        "id": 20,
+        "title": "Minimal Round Frame Sunglasses (Black Lens)",
+        "price": 955,
+        "image": "../public/images/sunglasses/sn4.jpg",
+        "category": "sunglasses"
+    },
+        {
+        "id": 21,
+        "title": "Futuristic Shield Sunglasses (Silver Frame)",
+        "price": 1299,
+        "image": "../public/images/sunglasses/sn5.jpg",
+        "category": "sunglasses"
+    },
+        {
+        "id": 22,
+        "title": "Angular Black Fashion Sunglasses (Red Background Style)",
+        "price": 999,
+        "image": "../public/images/sunglasses/sn6.jpg",
+        "category": "sunglasses"
+    },
+        {
+        "id": 23,
+        "title": "Graphic Print Casual T-Shirt (Olive Green)",
+        "price":1200,
+        "image": "../public/images/tshirts/st1.jpg",
+        "category": "tshirts"
+    },
+        {
+        "id": 24,
+        "title": "Monochrome Artistic Print T-Shirt (White/Black Gradient)",
+        "price":1100,
+        "image": "../public/images/tshirts/st2.jpg",
+        "category": "tshirts"
+    },
+        {
+        "id": 25,
+        "title": "Classic Tan Utility Jacket",
+        "price":999,
+        "image": "../public/images/tshirts/st3.jpg",
+        "category": "tshirts"
+    },
+        {
+        "id": 26,
+        "title": "Light Blue Casual Button-Down Shirt",
+        "price":3400,
+        "image": "../public/images/tshirts/st4.jpg",
+        "category": "tshirts"
+    },
+        {
+        "id": 27,
+        "title": "Black Minimalist Overshirt Jacket",
+        "price":320,
+        "image": "../public/images/tshirts/st5.jpg",
+        "category": "tshirts"
+    },
+        {
+        "id": 28,
+        "title": "Red Graphic Streetwear T-Shirt",
+        "price":1400,
+        "image": "../public/images/tshirts/st6.jpg",
+        "category": "tshirts"
+    },
+        {
+        "id": 29,
+        "title": "Dark Grey Casual Zip-Up Jacket",
+        "price":2100,
+        "image": "../public/images/tshirts/st7.jpg",
+        "category": "tshirts"
+    },
+        {
+        "id": 30,
+        "title": "White Minimal Illustration T-Shirt",
+        "price":1100,
+        "image": "../public/images/tshirts/st8.jpg",
+        "category": "tshirts"
+    },
+        {
+        "id": 31,
+        "title": "White Typography Print T-Shirt",
+        "price":2200,
+        "image": "../public/images/tshirts/st9.jpg",
+        "category": "tshirts"
+    },
+        {
+        "id": 32,
+        "title": "Maroon Casual Button-Down Shirt",
+        "price":999,
+        "image": "../public/images/tshirts/st10.jpg",
+        "category": "tshirts"
+    },
+        {
+        "id": 33,
+        "title": "All-Black Minimalist Analog Watch (Metal Strap)",
+        "price": 1200,
+        "image": "../public/images/watches/w1.jpg",
+        "category": "watches"
+    },
+    {
+        "id": 34,
+        "title": "Luxury Gold & Silver Two-Tone Chronograph Watch (Green Dial)",
+        "price": 1199,
+        "image": "../public/images/watches/w2.jpg",
+        "category": "watches"
+    },
+    {
+        "id": 35,
+        "title": "Stainless Steel Classic Chronograph Watch (Black Dial)",
+        "price": 1600,
+        "image": "../public/images/watches/w3.jpg",
+        "category": "watches"
+    },
+    {
+        "id": 36,
+        "title": "Premium Black Dial Chronograph Watch (Leather Strap)",
+        "price": 999,
+        "image": "../public/images/watches/w4.jpg",
+        "category": "watches"
+    },
+    {
+        "id": 37,
+        "title": "Elegant Slim Analog Watch (Brown Leather Strap, Black Dial)",
+        "price": 2999,
+        "image": "../public/images/watches/w5.jpg",
+        "category": "watches"
+    }
+]
